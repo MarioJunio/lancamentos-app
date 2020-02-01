@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descricao": "Pantogar",
+        "valor": 110.430,
+        "data_pagamento": null,
+        "data_vencimento": null,
+        "observacao": "Comprar de Pantogar for men",
+        "tipo": "DESPESA"
+    },
+    {
+        "id": 2,
+        "descricao": "Manuntencao Security",
+        "valor": 540.68,
+        "data_pagamento": null,
+        "data_vencimento": null,
+        "observacao": "Visita feita na security para resolve problema das horas incorretas que estavam sendo exibidas no sistema de controle de rondas.",
+        "tipo": "RECEITA"
+    }
+]

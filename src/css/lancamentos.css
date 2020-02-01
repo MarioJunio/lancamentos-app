@@ -1,0 +1,34 @@
+.col-check-size {
+    text-align: center;
+    width: 40px;
+}
+
+.col-small-size {
+    width: 150px;
+}
+
+.col-date-size {
+    width: 200px;
+}
+
+.col-actions-size {
+    width: 150px;
+}
+
+.left {
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+}
+
+.right {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.confirm-dialog {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 20px;
+}
